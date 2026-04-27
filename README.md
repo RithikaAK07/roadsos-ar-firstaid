@@ -5,15 +5,16 @@
 Turns any bystander into a first responder during road accidents.
 Point your phone camera at the victim — the app detects the injury
 and shows step by step first aid instructions on screen in real time.
+At the same time, it sends your GPS location to the nearest hospital, ambulance, and your emergency contacts all within seconds.
 
 ## Key Features
-- Live injury detection using computer vision
-- AR overlays with triage level and survival probability
-- Bystander stress detection via hand tremor analysis
-- CPR metronome at 100-120 BPM
-- Auto emergency alert to 112, nearest hospital and contacts
-- Works fully offline — no internet needed
-- Auto generates medical report for ambulance crew
+- Live injury detection using computer vision.
+- AR overlays with triage level and survival probability.
+- Bystander stress detection via hand tremor analysis.
+- CPR metronome at 100-120 BPM.
+- Auto emergency alert to 112, nearest hospital and contacts.
+- Works fully offline — no internet needed.
+- Auto generates medical report for ambulance crew.
 
 ## How to Run
 Step 1 — Install requirements
